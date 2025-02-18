@@ -8,6 +8,7 @@ Esse projeto tem como objetivo treinar lógica de programação, que ao escolher
 
 <br>
 
+# Após o envio da opção
 <img src="./src/design/desktop-thank-you-state.jpg">
 
 ## Design mobile
@@ -16,6 +17,7 @@ Esse projeto tem como objetivo treinar lógica de programação, que ao escolher
 
 <br>
 
+# Após o envio da opção
 <img src="./src/design/mobile-thank-you-state.jpg">
 
 ## 🚀 Tecnologias utilizadas
